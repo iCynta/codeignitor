@@ -1,0 +1,19 @@
+/* 
+    Document   : style
+    Created on : Jul 3, 2014, 9:31:25 AM
+    Author     : iCynta.com
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+.shadow-box
+{
+    border: 1px solid #D9D9D9;
+    box-shadow: 0px 1px 5px #CBCACA;
+    margin: 2px;
+    padding:5px
+}
